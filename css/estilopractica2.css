@@ -1,0 +1,59 @@
+@font-face{
+	font-family:Marseline;
+	src:url(../fonts/Marseline.ttf);
+}
+h1{
+	font-family: Marseline;
+	color:white;
+	font-size: 60px;
+}
+header{
+	background-color:#FFB6B9;
+	padding: 25PX;
+	font-size: 25PX;
+	font-family: Century Gothic;
+	text-align: center;
+}
+h2{
+	font-family:Century Gothic;
+	color:#681A1E;
+	font-size: 23px;
+	text-align:left;
+}
+article{
+	font-family: Marseline;
+	color:black;
+	padding: 25PX;
+	font-size: 20px;
+	text-align: left;
+	text-align: justify;
+}
+footer{
+	clear: both;
+	color:#011F3f;
+	padding:30px;
+	text-align: left;
+	font-size: "Arial";
+}
+section{
+	float:left;
+	max-width: 150px;
+	padding-top: 50px;
+	font-family: "Arial";
+	font-size:20px;
+	color:#00204A;
+	text-align: justify;
+}
+article{
+	padding-bottom: 20px;
+	float:left;
+	text-orientation:left;
+}
+h3{
+	font-family: "Century Gothic";
+	font-size: 23px;
+	color:#681A1E;
+}
+.img{
+float: left;
+}
